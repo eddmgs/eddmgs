@@ -1,6 +1,6 @@
 ### Olá! eu sou Edson Filho.
 
- -Criei esse perfil para colocar meus projetos, estudos e ideias.
+ -Whatever happens, happens
 
 -Atualmente estou estudando Javascript
 
