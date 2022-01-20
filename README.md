@@ -1,6 +1,6 @@
 ### Olá! eu sou Edson Filho.
 
- -Whatever happens, happens
+ -Eu estudo back and developer e tenho uma paixão por codificar e aprender novas tecnologias.
 
 -Atualmente estou estudando Javascript
 
