@@ -1,8 +1,9 @@
 ### Olá! eu sou Edson Filho.
 
- -Eu estudo back and developer e tenho uma paixão por codificar e aprender novas tecnologias.
-
--Atualmente estou estudando Javascript
+  Hi, I’m Ed Filho
+👀 I’m interested in learn about JavaScript
+🌱 I’m currently learning the basic concepts of this language
+📫 How to reach me in Linkedin! https://www.linkedin.com/in/edfilho1/
 
 
 <div>
