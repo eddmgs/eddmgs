@@ -1,10 +1,10 @@
 ### Olá! eu sou Edson Filho.
 
-  Hi, I’m Ed Filho
-👀 I’m interested in learn about JavaScript
-🌱 I’m currently learning the basic concepts of this language
+<p>  Hi, I’m Ed Filho <br />
+👀 I’m interested in learn about JavaScript <br />
+🌱 I’m currently learning the basic concepts of this language <br />
 📫 How to reach me in Linkedin! https://www.linkedin.com/in/edfilho1/
-
+</p>
 
 <div>
   <a href="https://github.com/eddmgs">
