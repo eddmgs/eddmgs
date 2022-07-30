@@ -1,9 +1,9 @@
 ### Olá! eu sou Edson Filho.
 
 <p>  Hi, I’m Ed Filho <br />
-👀 I’m interested in learn about JavaScript <br />
-🌱 I’m currently learning the basic concepts of this language <br />
-📫 How to reach me in Linkedin! https://www.linkedin.com/in/edfilho1/
+👀 Estou me formando em licenciatura da Matematica na Universidade Fedaral do Maranhão <br />
+🌱Estudo a linguagem Javascript e sou entusiatas no Python <br />
+📫 Voce pode me encontrar no Linkedin! https://www.linkedin.com/in/edfilho1/
 </p>
 
 <div>
