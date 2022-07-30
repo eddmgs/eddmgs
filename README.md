@@ -1,8 +1,8 @@
 ### Olá! eu sou Edson Filho.
 
-<p>  Hi, I’m Ed Filho <br />
+
 👀 Estou me formando em licenciatura da Matematica na Universidade Fedaral do Maranhão <br />
-🌱Estudo a linguagem Javascript e sou entusiatas no Python <br />
+🌱Estudo a linguagem Javascript e sou admirador do Python <br />
 📫 Voce pode me encontrar no Linkedin! https://www.linkedin.com/in/edfilho1/
 </p>
 
@@ -14,14 +14,7 @@
 </div>
 	
 	
-<div style="display: inline_block"><br>
-  <img align="center" alt="Ed-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ed-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Ed-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-	<img align="center" alt="Ed-node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" >
-	<img align="center" alt= "Ed-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" > 
-	<img align="center" alt= "Ed-next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
-</div>
+
 	
 ##
 
